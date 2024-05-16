@@ -15,4 +15,4 @@ Tenho 30 anos de idade, moro altualmente em Aracaju/SE e estou a procura de uma 
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorx26)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorx26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
