@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Igor Martins Silva 👋 
 
-Tenho 30 anos de idade, moro altualmente em Aracaju/SE e estou a procura de uma transição de carreira para a programação. Sou um estudante curioso e estou sempre buscando novos desafios e formas de aplicar minhas habilidades em um contexto profissional.
+Desenvolvedor em formação, 30 anos, residente em Aracaju/SE. Atualmente, curso Análise e Desenvolvimento de Sistemas e Técnico em Informática no Instituto Federal de Sergipe (IFS). Movido pela curiosidade e pelo aprendizado constante, busco oportunidades para aplicar e expandir meus conhecimentos técnicos em desafios profissionais reais.
 
 ##
 ### Contatos
