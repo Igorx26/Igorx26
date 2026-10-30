@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Igor Martins Silva 👋 
 
-Programador Júnior atuando com **Business Intelligence e Engenharia de Dados**, e Desenvolvedor Full-Stack. Tenho 32 anos, resido em Aracaju/SE e curso o 5º período de Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe (IFS). Busco sempre transformar dados complexos e requisitos de software em soluções eficientes para o negócio.
+Desenvolvedor Full-Stack atuando com **Business Intelligence e Engenharia de Dados**. Tenho 32 anos, resido em Aracaju/SE e curso o 5º período de Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe (IFS). Busco sempre transformar dados complexos e requisitos de software em soluções eficientes para o negócio.
 
 ---
 
